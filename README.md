@@ -1,2 +1,2 @@
 # Chatbot_RAG
-Implémentation d'un chatbot à travers l'architecture RAG(retrievial-augmented generation) 
+Ce projet a pour but d'implémenter un chatbot à travers l'architecture RAG(retrievial-augmented generation) 
